@@ -127,7 +127,7 @@ ul {
 }
 
 .phone:hover {
-    color: var(--orange);
+    color: var(--grey);
 }
 
 /* Burger Menu */
@@ -493,6 +493,10 @@ a.contact-value:hover {
         gap: 25px;
     }
 
+    .mobile-nav a {
+        color: var(--white);
+    }
+
     .hero-text h1 {
         font-size: 44px;
     }
@@ -582,10 +586,6 @@ a.contact-value:hover {
     .hero-subtitle {
         font-size: 17px;
     }
-
-		.mobile-nav a {
-			color: var(--white);
-		}
 
     .btn {
         padding: 16px 35px;
